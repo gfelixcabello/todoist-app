@@ -1,0 +1,9 @@
+.classpath
+.project
+.settings/
+target/*
+target/classes/pageObjects/
+target/classes/resources/Base.class
+target/classes/resources/chromedriver.exe
+target/test-classes/
+test-output/
